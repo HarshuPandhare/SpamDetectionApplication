@@ -6,13 +6,13 @@ Android App Technologies
 -
 •Programming Language:
 .Kotlin: Modern, concise language for Android development, enhancing code safety and readability.
-
+<centre>
 <p align="left">
   <img src="data/spam app.jpg" width="200" />
-</p>
-<p align="right">
+
   <img src="data/spmnotif.jpg" width="200" />
 </p>
+</centre>
 Android SDK:
 -
 Essential for accessing Android's features, including notification management and1u
