@@ -11,6 +11,7 @@ Android App Technologies
   <img src="data/spam app.jpg" width="200"  />
 
   <img src="data/spmnotif.jpg" width="200" />
+  
 </p>
 </centre>
 Android SDK:
@@ -34,3 +35,5 @@ NotificationListener Service: Core service for intercepting and processing incom
 Concurrency (Implicit):
 -
 Kotin Coroutines (yvia Volley): Handles background network operations without blocking the main Ul thread, ensuring a smooth user experience.
+
+<h1> To SetUp the application Read the setup file in appdata</h1>
