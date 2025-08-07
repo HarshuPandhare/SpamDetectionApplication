@@ -12,7 +12,7 @@ Android App Technologies
 
   <img src="data/spmnotif.jpg" width="200" />
 
-  <img src="data/ic_launcher.jpg" width="200" />
+  <img src="data/ic_launcher.webp" width="200" />
   
 </p>
 </centre>
