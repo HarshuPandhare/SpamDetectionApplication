@@ -38,4 +38,4 @@ Concurrency (Implicit):
 -
 Kotin Coroutines (yvia Volley): Handles background network operations without blocking the main Ul thread, ensuring a smooth user experience.
 
-<h1> To SetUp the application Read the setup file in appdata</h1>
+<h1> To SetUp the application Read the setup file in appFiles</h1>
