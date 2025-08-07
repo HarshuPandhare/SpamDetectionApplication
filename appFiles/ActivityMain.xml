@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="#F4CBCB"> <!-- Soft colored background -->
+
+    <!-- Main Instructions -->
+    <TextView
+        android:id="@+id/tvInstructions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome To Phishing Detection APP :"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#212121"
+        android:layout_gravity="center"
+        android:layout_marginBottom="32dp" />
+
+    <!-- Toggle Button -->
+    <Button
+        android:id="@+id/btnToggleDetection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Toggle Phishing Detection"
+        android:textAllCaps="false"
+        android:elevation="4dp"
+        android:background="@drawable/rounded_button"
+        android:textColor="#000000"
+        android:layout_marginBottom="40dp"/>
+
+    <!-- Footer Text in Rounded Box -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Stay alert! Protect yourself from phishing attempts."
+        android:textSize="15sp"
+        android:textColor="#333333"
+        android:gravity="center"
+        android:background="@drawable/rounded_footer"
+        android:padding="16dp"
+         /> <!-- Pushes footer to bottom if possible -->
+    <ImageView
+        android:id="@+id/ivAlertImage"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
+        android:layout_gravity="center"
+        android:src="@drawable/your_image_name"
+        android:background="@drawable/rounded_image_bg"
+        android:scaleType="centerCrop"
+        android:clipToOutline="true"
+        android:contentDescription="Alert illustration"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:id="@+id/bottomText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Made By - Harshvardhan Pandhare"
+        android:textSize="14sp"
+        android:textColor="#1196FB"
+        android:gravity="center"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="8dp"
+        android:layout_gravity="bottom"/>
+
+
+</LinearLayout>
