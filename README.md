@@ -8,7 +8,7 @@ Android App Technologies
 .Kotlin: Modern, concise language for Android development, enhancing code safety and readability.
 <centre>
 <p align="left">
-  <img src="data/spam app.jpg" width="200" />
+  <img src="data/spam app.jpg" width="200"  />
 
   <img src="data/spmnotif.jpg" width="200" />
 </p>
