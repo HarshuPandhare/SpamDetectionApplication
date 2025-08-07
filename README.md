@@ -11,7 +11,7 @@ Android App Technologies
   <img src="data/spam app.jpg" width="200" />
 </p>
 <p align="right">
-  <img src="URL_OF_IMAGE_2" width="200" />
+  <img src="data/spmnotif.jpg" width="200" />
 </p>
 Android SDK:
 -
